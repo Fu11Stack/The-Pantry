@@ -159,7 +159,7 @@ bootstrap.min.css: 5 .navbar-toggle {
 
 .banner {
   padding: 180px 0px;
-  background-image: url(./img/banner.jpg);
+  background-image: url(../img/banner.jpg);
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center center;
