@@ -15,3 +15,5 @@ codebucks27
 bootstrap chartjs css3 d3js electron express git graphql html5 javascript nextjs nodejs postman react redux sass tailwind webpack xd
 
 # The-Pantry
+ new updates
+ 
