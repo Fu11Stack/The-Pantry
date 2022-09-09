@@ -15,4 +15,4 @@ bootstrap chartjs css3 d3js electron express git graphql html5 javascript nextjs
 # The-Pantry
  new updates
  
- <img src = "" alt"web site screen shot"></img>
+ 
